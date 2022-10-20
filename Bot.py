@@ -90,7 +90,7 @@ async def help(event):
     )
 
 
-@client.on(events.NewMessage(pattern="^/mentionall ?(.*)"))
+@client.on(events.NewMessage(pattern="^/jombloall ?(.*)"))
 async def mentionall(event):
     chat_id = event.chat_id
     if event.is_private:
@@ -223,7 +223,7 @@ async def cancel_spam(event):
         return await event.respond("__Stopped.__")
 
 
-print(">> ᴊᴏᴍʙʟᴏ ᴍᴇɴᴛɪᴏɴ WORKING <<")
+print(">> JOMBLO TAG ALL WORKING <<")
 client.run_until_disconnected()
 
 
