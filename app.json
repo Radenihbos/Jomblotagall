@@ -1,6 +1,6 @@
 {
-    "name": "Asad Alexa",
-    "description": "Asad Alexa Is Telegram Advanced Bot To Mention All Members In Group.",
+    "name": "Jomblo Mention",
+    "description": "Jomblo Mention Is Telegram Advanced Bot To Mention All Members In Group.",
     "logo": "https://i.postimg.cc/vTpCvvtw/IMG-20220824-004302-099.jpg",
     "env": {
         "TOKEN": {
