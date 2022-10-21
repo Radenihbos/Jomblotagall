@@ -1,7 +1,7 @@
 {
     "name": "Asad Alexa",
     "description": "Asad Alexa Is Telegram Advanced Bot To Mention All Members In Group.",
-    "logo": "https://telegra.ph/file/cb76d7f5dae14ec1e11c7.jpg",
+    "logo": "https://i.postimg.cc/vTpCvvtw/IMG-20220824-004302-099.jpg",
     "env": {
         "TOKEN": {
             "description": "Enter bot token."
